@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ezWdMUOwDwcyHVIRZI6P+hisSCWMaRLwp+fvyR8ciVH0CSTrUIkSTxl1iewUKmD48V27c6ANNZjfSsI4X2nt8Q==",
+  "success": true,
+  "projectFilePath": "/home/burnoutdev/source/ConfigurationMiddleware-1/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/burnoutdev/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
+    "/home/burnoutdev/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/home/burnoutdev/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.2/microsoft.entityframeworkcore.abstractions.5.0.2.nupkg.sha512",
+    "/home/burnoutdev/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

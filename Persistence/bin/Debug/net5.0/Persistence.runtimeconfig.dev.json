@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/burnoutdev/.dotnet/store/|arch|/|tfm|",
+      "/home/burnoutdev/.nuget/packages"
+    ]
+  }
+}

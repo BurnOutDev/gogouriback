@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/burnoutdev/source/ConfigurationMiddleware-1/Domain/Domain.csproj": {}
+  },
+  "projects": {
+    "/home/burnoutdev/source/ConfigurationMiddleware-1/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/burnoutdev/source/ConfigurationMiddleware-1/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/home/burnoutdev/source/ConfigurationMiddleware-1/Domain/Domain.csproj",
+        "packagesPath": "/home/burnoutdev/.nuget/packages/",
+        "outputPath": "/home/burnoutdev/source/ConfigurationMiddleware-1/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/burnoutdev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

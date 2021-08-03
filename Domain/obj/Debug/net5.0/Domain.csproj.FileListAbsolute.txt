@@ -1,0 +1,12 @@
+/home/burnoutdev/source/ConfigurationMiddleware-1/Domain/bin/Debug/net5.0/Domain.deps.json
+/home/burnoutdev/source/ConfigurationMiddleware-1/Domain/bin/Debug/net5.0/Domain.dll
+/home/burnoutdev/source/ConfigurationMiddleware-1/Domain/bin/Debug/net5.0/ref/Domain.dll
+/home/burnoutdev/source/ConfigurationMiddleware-1/Domain/bin/Debug/net5.0/Domain.pdb
+/home/burnoutdev/source/ConfigurationMiddleware-1/Domain/obj/Debug/net5.0/Domain.csproj.AssemblyReference.cache
+/home/burnoutdev/source/ConfigurationMiddleware-1/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/burnoutdev/source/ConfigurationMiddleware-1/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/home/burnoutdev/source/ConfigurationMiddleware-1/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/home/burnoutdev/source/ConfigurationMiddleware-1/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/home/burnoutdev/source/ConfigurationMiddleware-1/Domain/obj/Debug/net5.0/Domain.dll
+/home/burnoutdev/source/ConfigurationMiddleware-1/Domain/obj/Debug/net5.0/ref/Domain.dll
+/home/burnoutdev/source/ConfigurationMiddleware-1/Domain/obj/Debug/net5.0/Domain.pdb
